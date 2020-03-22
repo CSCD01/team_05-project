@@ -4,3 +4,7 @@
     - [higher level architecture](https://github.com/CSCD01/team_05-project/blob/master/docs/tiers-architecture.pdf)
     - [detailed uml](https://github.com/CSCD01/team_05-project/blob/master/docs/uml-details.pdf)
 * [Deliverable 2](https://github.com/CSCD01/team_05-project/blob/master/docs/deliverable%202.pdf)
+* [Deliverable 3](https://github.com/CSCD01/team_05-project/blob/master/docs/deliverable3.pdf)
+    - [higher level architecture](https://github.com/CSCD01/team_05-project/blob/master/docs/d3-architecture.pdf)
+    - [issue 1607 uml](https://github.com/CSCD01/team_05-project/blob/master/docs/issue-%231607.pdf)
+    - [issue 1662 uml](https://github.com/CSCD01/team_05-project/blob/master/docs/issue-%231662-UML.pdf)
