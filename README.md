@@ -9,3 +9,4 @@
     - [issue 1607 uml](https://github.com/CSCD01/team_05-project/blob/master/docs/issue-%231607.pdf)
     - [issue 1662 uml](https://github.com/CSCD01/team_05-project/blob/master/docs/issue-%231662-UML.pdf)
 * [Deliverable 4](https://github.com/CSCD01/team_05-project/blob/master/docs/deliverable4.pdf)
+    - [issue 1607 updated uml](https://github.com/CSCD01/team_05-project/blob/master/docs/issue-%231607-UML-update.png)
