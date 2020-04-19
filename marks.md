@@ -118,16 +118,17 @@
 
 | Criteria | Grade |
 | :------- | :-----: |
-| Implementation (40) |  |  
-| Testing (20) |  |  
-| User Guide(s) (10) |  |  
-| Design Document (10) |  |
-| Process (20) |  |  
-| Compared with other teams (10) |  |  
-| Presentation (10) |  |  
+| Implementation (40) | 40 |  
+| Testing (20) | 20 |  
+| User Guide(s) (10) | 10 |  
+| Design Document (10) | 10 |
+| Process (20) | 20 |  
+| Compared with other teams (10) | ? |  
+| Presentation (10) | 10 |  
 
-**Total (120)**:   
-**Comments**:   
+**Total (120)**: 110 + ?  
+**Comments**: No unit testing was done, but since the team gave their best effort and I was kept in the loop, no marks are deducted.   
+I like how the review feature was used for approving pull requests. The contents of the meetings were also thoroughly noted. Great work.   
 
 ### Interview 4
 
